@@ -1,4 +1,5 @@
 # CarTrade is a car selling platform where user can find used and brand new cars to buy.
+Also we are providing some services like car insurance, Maintenance of car, battery replacement.
 Homepage -![homepage](https://github.com/bketan/CarTrade/assets/113464974/ab47890e-7729-4be3-ad85-4adcd766b3b4)
 Featured cars -![Featured cars](https://github.com/bketan/CarTrade/assets/113464974/b11cab01-4a62-452c-ba0b-ac5702b6052e)
 popular vehicles -![popular vehicles](https://github.com/bketan/CarTrade/assets/113464974/2b18558f-be12-405e-bb5b-242f45edcb4b)
